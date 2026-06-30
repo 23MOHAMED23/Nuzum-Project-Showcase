@@ -1,4 +1,4 @@
-# Nuzum
+#                                  Nuzum
 ## Administrative Communication Management System
 
 <div align="center">
@@ -54,9 +54,7 @@ I contributed to:
 **Result:**
 Successfully launched and deployed within the organization, improving administrative communication efficiency and workflow organization.
 
-
 ## 
-
 
 ## 🔒 Repository Notice
 
