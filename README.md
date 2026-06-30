@@ -1,15 +1,28 @@
-## <div align="crnter">Nuzum</div>
+<div align="center">
+
+# Nuzum
+
+**Administrative Communication Management System**
 
 A web-based administrative communication system designed to improve internal workflows and digital transformation.
 
+</div>
 
-## <div align="center">Overview</div> 
+---
+
+<div align="center">
+
+## Overview
+
+</div>
 
 Nuzum is an internal web application developed for Maskani Association to organize and improve administrative communication workflows.
+
 The system helps employees manage holiday requests, letters, transactions, and asset custody processes through a centralized digital platform.
 
-<hr>
-##  My Role :
+---
+
+## My Role
 
 I contributed to:
 
@@ -20,7 +33,9 @@ I contributed to:
 - Database design and integration
 
 
-##  Key Features :
+---
+
+## Key Features
 
 - Holiday requests management
 - Letters management
@@ -29,7 +44,9 @@ I contributed to:
 - Internal communication organization
 
 
-##  Technologies :
+---
+
+## Technologies
 
 - ASP.NET Core MVC
 - C#
@@ -40,15 +57,18 @@ I contributed to:
 - Tailwind CSS
 
 
-##  Challenge & Result :
+---
 
-**Challenge:**
- Transforming non-technical employee requirements into clear technical specifications.
+## Challenge & Result
 
-**Result:**
+**Challenge:**  
+Transforming non-technical employee requirements into clear technical specifications.
+
+**Result:**  
 Successfully launched and deployed within the organization, improving administrative communication efficiency and workflow organization.
 
-## 
+
+---
 
 ## 🔒 Repository Notice
 
