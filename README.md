@@ -1,14 +1,14 @@
-<div align="crnter">Nuzum</div>
+## <div align="crnter">Nuzum</div>
 
-## Administrative Communication Management System
+Administrative Communication Management System
 
 <div align="center">
 A web-based administrative communication system designed to improve internal workflows and digital transformation.
 </div>
 
 
-<div align="center">Overview</div> 
-##
+## <div align="center">Overview</div> 
+
 Nuzum is an internal web application developed for Maskani Association to organize and improve administrative communication workflows.
 The system helps employees manage holiday requests, letters, transactions, and asset custody processes through a centralized digital platform.
 
