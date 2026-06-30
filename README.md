@@ -8,7 +8,7 @@ A web-based administrative communication system designed to improve internal wor
 Nuzum is an internal web application developed for Maskani Association to organize and improve administrative communication workflows.
 The system helps employees manage holiday requests, letters, transactions, and asset custody processes through a centralized digital platform.
 
-
+<hr>
 ##  My Role :
 
 I contributed to:
