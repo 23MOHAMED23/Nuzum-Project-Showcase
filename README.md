@@ -1,11 +1,6 @@
 ## <div align="crnter">Nuzum</div>
 
-Administrative Communication Management System
-
-<div align="center">
 A web-based administrative communication system designed to improve internal workflows and digital transformation.
-</div>
-
 
 ## <div align="center">Overview</div> 
 
